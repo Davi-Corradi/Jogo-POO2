@@ -97,7 +97,7 @@ namespace Quiz_Game_WPF_MOO_ICT
                 Texto = "Qual é o elemento químico com símbolo O?",
                 Alternativas = new[] { "Ouro", "Oxigênio", "Zinco", "Prata" },
                 RespostaCorreta = 1,
-                CaminhoImagem = "pack://application:,,,/images/9.png"
+                CaminhoImagem = "pack://application:,,,/images/9.jpg"
             },
             new Pergunta
             {
